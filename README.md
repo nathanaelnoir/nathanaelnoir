@@ -17,7 +17,7 @@
 
 Hi, I'm Nathanael Noir, a theoretical physicist loving Holographic Entanglement, Calabi-Yau’s, Superstring Theory, CFT, Quantum Gravity, Singularities, Quantum Epistemology, Poststructuralism and Education. In my free time, I enjoy creating art and coding.
 
-- 🔭 I’m currently working on my [Blog](https://github.com/nathanael/website)
+- 🔭 I’m currently working on my [Blog](https://github.com/nathanaelnoir/website)
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about anything [here](https://github.com/nathanaelnoir/nathanaelnoir/issues)
 
@@ -39,10 +39,10 @@ Hi, I'm Nathanael Noir, a theoretical physicist loving Holographic Entanglement,
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nathanaelnoir&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/website">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nathanaelnoir&repo=website&theme=radical" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/anuraghazra/animations">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nathanaelnoir&repo=animations&theme=radical" />
