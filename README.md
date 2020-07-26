@@ -7,8 +7,6 @@ Hi, I'm Nathanael Noir, a theoretical physicist loving Holographic Entanglement,
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about anything [here](https://github.com/nathanaelnoir/nathanaelnoir/issues)
 
-[![Nathanael's github stats](https://github-readme-stats.vercel.app/api?username=nathanaelnoir&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--- 
   if you have forked this to use on your profile, 
