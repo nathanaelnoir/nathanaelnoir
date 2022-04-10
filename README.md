@@ -2,7 +2,7 @@
 
 ### Glad to see you here! &nbsp;
 
-Hi, I'm Nathanael Noir, a theoretical physicist loving Holographic Entanglement, Calabi-Yau’s, Superstring Theory, CFT, Quantum Gravity, Singularities, Quantum Epistemology, Poststructuralism and Education. In my free time, I enjoy creating art and coding.
+Hi, I'm Nathanael Noir, a theoretical physicist loving Holographic Principle, Calabi-Yau’s, Superstring Theory, CFT, Quantum Gravity, Singularities, Quantum Epistemology, Poststructuralism and Education. In my free time, I enjoy creating art and coding.
 
 - 🔭 I’m currently working on my [Blog](https://github.com/nathanaelnoir/website)
 - 🌱 I’m currently learning JavaScript
