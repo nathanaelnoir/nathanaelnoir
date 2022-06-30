@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! 
 
 ### Glad to see you here! &nbsp;
 
